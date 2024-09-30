@@ -1,6 +1,6 @@
 Welcome to the code repo for the 6G Spectrum Tokenisation Project, a joint research initiative from Jupiter Meta and Amrita Vishwa Vidyapeetham.
 
-##Research Objective:
+#Research Objective:
 
 	•	Develop a blockchain-based spectrum management system in Radio Access Networks (RAN) that dynamically and distributedly allocates spectrum resources.
 	•	Incorporate spectrum tokenization to enable detailed sharing parameters, including frequency bands, spectrum lease duration, transmit power, and geolocation of secondary providers.
