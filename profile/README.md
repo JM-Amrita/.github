@@ -12,7 +12,7 @@ This repository is part of a joint research initiative by **Jupiter Meta** and *
 
 ### Architecture:
 
-![Architecture Diagram](./images/architecture_diagram.png)
+![Architecture Diagram](./images/architecture_diagram_c.png)
 
 
 Explore the code, contribute, and help us shape the future of spectrum management for 6G networks!
