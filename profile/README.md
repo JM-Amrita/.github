@@ -10,4 +10,9 @@ This repository is part of a joint research initiative by **Jupiter Meta** and *
 - **Adaptive Blockchain Design:** Build a system that adapts to real-time network conditions and demand, enhancing Quality of Service (QoS) in 6G networks.
 - **AI & Machine Learning Integration:** Utilize AI and ML to optimize spectrum allocation, ensuring efficient and precise resource management in dynamic environments.
 
+### Architecture:
+
+![Architecture Diagram](./images/architecture_diagram.png)
+
+
 Explore the code, contribute, and help us shape the future of spectrum management for 6G networks!
