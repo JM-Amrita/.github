@@ -1,9 +1,13 @@
-Welcome to the code repo for the 6G Spectrum Tokenisation Project, a joint research initiative from Jupiter Meta and Amrita Vishwa Vidyapeetham.
+## Welcome to the 6G Spectrum Tokenization Project
 
-#Research Objective:
+This repository is part of a joint research initiative by **Jupiter Meta** and **Amrita Vishwa Vidyapeetham** aimed at revolutionizing spectrum management in 6G networks using blockchain technology.
 
-	•	Develop a blockchain-based spectrum management system in Radio Access Networks (RAN) that dynamically and distributedly allocates spectrum resources.
-	•	Incorporate spectrum tokenization to enable detailed sharing parameters, including frequency bands, spectrum lease duration, transmit power, and geolocation of secondary providers.
-	•	Ensure compliance of spectrum-sharing blockchain transactions with Service Level Agreements (SLA) and regulatory standards, enabling auditability and reporting for regulatory oversight.
-	•	Design an adaptive blockchain system for RAN that responds to real-time network conditions and demand, improving Quality of Service (QoS).
-	•	Leverage AI and Machine Learning (ML) techniques to optimize spectrum allocation decisions, enhancing the accuracy and efficiency of resource management in dynamic network environments.
+### Research Objective:
+
+- **Blockchain-based Spectrum Management:** Develop a decentralized spectrum management system for Radio Access Networks (RAN) to dynamically allocate spectrum resources.
+- **Spectrum Tokenization:** Enable secure and detailed sharing of spectrum parameters, including frequency bands, lease durations, transmit power, and geolocation of secondary providers.
+- **Compliance & Auditability:** Ensure all spectrum-sharing transactions comply with Service Level Agreements (SLA) and regulatory standards, with built-in reporting features for regulatory oversight.
+- **Adaptive Blockchain Design:** Build a system that adapts to real-time network conditions and demand, enhancing Quality of Service (QoS) in 6G networks.
+- **AI & Machine Learning Integration:** Utilize AI and ML to optimize spectrum allocation, ensuring efficient and precise resource management in dynamic environments.
+
+Explore the code, contribute, and help us shape the future of spectrum management for 6G networks!
