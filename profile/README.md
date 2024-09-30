@@ -1,4 +1,4 @@
-## Welcome to the 6G Spectrum Tokenization Project
+## 6G Spectrum Tokenization using AI and Blockchain
 
 This repository is part of a joint research initiative by **Jupiter Meta** and **Amrita Vishwa Vidyapeetham** aimed at revolutionizing spectrum management in 6G networks using blockchain technology.
 
